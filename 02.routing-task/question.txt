@@ -1,0 +1,13 @@
+Deliverable:
+Task 1: Basic Routing
+
+Create /app/page.js that displays the welcome message:
+Welcome to the Products Store
+Create /app/products/page.js that displays a simple placeholder text indicating the products page and includes links to product pages for product IDs 1 through 10.
+
+
+Task 2: Dynamic Route Placeholder
+
+Create /app/products/[id]/page.js that displays a framed static message:
+Product [id] details page — content coming soon!
+where [id] is dynamic and reflects the product ID in the URL.
